@@ -1,0 +1,28 @@
+{
+  "name": "lucky-mask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sohee-lee7@github.com/sohee-lee7/lucky-mask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohee-lee7/lucky-mask/issues"
+  },
+  "homepage": "https://github.com/sohee-lee7/lucky-mask#readme",
+  "dependencies": {
+    "@types/puppeteer-core": "^2.0.0",
+    "puppeteer-core": "^2.1.1",
+    "ts-node": "^8.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^13.9.1",
+    "typescript": "^3.8.3"
+  }
+}
